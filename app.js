@@ -1,5 +1,5 @@
 // Configuration
-const BACKEND_URL = 'http://localhost:5000'; // For local backend; 
+const BACKEND_URL = 'http://localhost:10000'; // For local backend; 
 // DOM Elements Cache
 const elements = {
     urlInput: document.getElementById('youtubeUrl'),
